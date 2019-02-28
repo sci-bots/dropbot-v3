@@ -1,0 +1,12 @@
+[submodule "120-channel-pogo-pin-board"]
+	path = 120-channel-pogo-pin-board
+	url = https://github.com/sci-bots/dropbot-120-channel-pogo-pin-board.kicad.git
+[submodule "40-channel-HV-switching-board"]
+	path = 40-channel-HV-switching-board
+	url = https://github.com/sci-bots/dropbot-40-channel-HV-switching-board.kicad.git
+[submodule "control-board"]
+	path = control-board
+	url = https://github.com/sci-bots/dropbot-control-board.kicad.git
+[submodule "front-panel"]
+	path = front-panel
+	url = https://github.com/sci-bots/dropbot-front-panel.kicad.git
