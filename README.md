@@ -1,6 +1,6 @@
 # DropBot v3
 
-This wiki contains documentation for the DropBot Digital Microfluidics (DMF) automation system. This is the latest generation DropBot instrument (v3) which makes many improvements over the previous hardware. These systems are available for purchase from [Sci-Bots](https://sci-bots.com/dropbot).
+[This wiki](https://github.com/sci-bots/dropbot-v3/wiki/) contains documentation for the DropBot Digital Microfluidics (DMF) automation system. This is the latest generation DropBot instrument (v3) which makes many improvements over the previous hardware. These systems are available for purchase from [Sci-Bots](https://sci-bots.com/dropbot).
 
 [![DropBot v3](png/dropbot-v3.png)](https://sci-bots.com/dropbot)
 
