@@ -10,3 +10,6 @@
 [submodule "front-panel"]
 	path = front-panel
 	url = https://github.com/sci-bots/dropbot-front-panel.kicad.git
+[submodule "test-board"]
+	path = test-board
+	url = https://github.com/sci-bots/dropbot-120-channel-test-board.kicad.git
