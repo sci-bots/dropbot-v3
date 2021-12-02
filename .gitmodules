@@ -20,5 +20,5 @@
 	path = software/dropbot
 	url = https://github.com/sci-bots/dropbot.py
 [submodule "external-connection-adapter"]
-	path = external-connection-adapter
+	path = hardware/external-connection-adapter
 	url = https://github.com/sci-bots/dropbot-v3-connection-adapter.kicad
